@@ -46,7 +46,7 @@
 ### Habilidades Interpersonales
 - Comunicación efectiva, negociación, trabajo en equipo y adaptación a entornos dinámicos
 - ## Redes Sociales:
-[LinkedIn](https://www.linkedin.com/in/daniela-pueblam31)) | [X](https://x.com/floresdeluz) 
+[LinkedIn](https://www.linkedin.com/in/daniela-pueblam31) | [X](https://x.com/floresdeluz) 
 
 ## Tecnologías:
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
@@ -66,7 +66,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny3431&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny3431&layout=compact)](https://github.com/Danny3431/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny3431&layout=compact&theme=tokyonight)](https://github.com/Danny3431/github-readme-stats)
 
 
 <!---
