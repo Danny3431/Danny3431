@@ -1,7 +1,10 @@
-- 👋 Hola, soy @Danny3431, Daniela Puebla
+ Hola, soy @Danny3431, Daniela Puebla <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### :woman_technologist: Sobre mí :
 - 👀 Estoy interesada en Análisis de Datos y Ciencia de Datos
 - 🎓 Me he graduado de mi posgrado en Data Science y Aprendizaje Automático
-- 🌱 Actualmente estoy aprendiendo sobre Aplicaciones Android en ADALID y Backend en Oracle
+- 🌱 Actualmente estoy aprendiendo sobre 📱 Aplicaciones Android en ADALID y :computer: Backend en ORACLE Con ALURA LATAM
 - 💞️ Estoy buscando colaborar en proyectos de IA y Análisis de Datos
 - 📫 Cómo contactarme: daniela.pueblam31@gmail.com
 
