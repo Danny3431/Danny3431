@@ -4,9 +4,10 @@
 ### :woman_technologist: Sobre mí :
 - 👀 Estoy interesada en Análisis de Datos y Ciencia de Datos
 - 🎓 Me he graduado de mi posgrado en Data Science y Aprendizaje Automático
-- 🌱 Actualmente estoy aprendiendo sobre 📱 Aplicaciones Android en ADALID y :computer: Backend en ORACLE Con ALURA LATAM
-- 💞️ Estoy buscando colaborar en proyectos de IA y Análisis de Datos
-- 📫 Cómo contactarme: daniela.pueblam31@gmail.com
+- 📱 Certificación en Desarrollo de Aplicaciones Android – ADALID.
+- 🤝 Busco colaborar en proyectos de Programación, IA y Análisis de Datos, promoviendo la inclusión y reduciendo la brecha de género en tecnología.
+- 📩 Contáctame: daniela.pueblam31@gmail.com
+
 
 ## Habilidades
 
