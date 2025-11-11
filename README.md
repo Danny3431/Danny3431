@@ -3,7 +3,7 @@
 
 ### :woman_technologist: Sobre mí :
 - 👀 Estoy interesada en Desarrollo de Aplicaciones, Análisis de Datos y Ciencia de Datos
-- 🎓 Me he graduado de mi Postgrado en Data Science y Aprendizaje Automático en el MIT
+- 🎓 Postgrado en Data Science y Aprendizaje Automático en el MIT
 - 📱 Desarrollo de Aplicaciones Android – TALENTO DIGITAL-ADALID.
 - 🤝 Busco colaborar en proyectos de Programación, IA y Análisis de Datos, promoviendo la inclusión y reduciendo la brecha de género en tecnología.
 - 📩 Contáctame: daniela.pueblam31@gmail.com
