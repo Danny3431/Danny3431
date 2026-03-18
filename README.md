@@ -54,15 +54,33 @@
 
 ## Tecnologías:
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
-![R](https://img.shields.io/badge/R-Intermediate-brightgreen)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
+![R](https://img.shields.io/badge/R-Intermediate-lightgreen)
+![SQL](https://img.shields.io/badge/SQ-Expert-blue)
+![Java](https://img.shields.io/badge/Java-Expert-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-blue)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
+![Node.js](https://img.shields.io/badge/node.js-%3E%3D18.0.0-339933?style=flat&logo=node.js)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json-Expert-lightgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-Basic-red)
 ![COBOL](https://img.shields.io/badge/COBOL-Basic-red)
-![Visual Basic](https://img.shields.io/badge/VisualBasic-Basic-red)
+![Visual Basic](https://img.shields.io/badge/VisualBasic-Intermediate-yellow)
+
+
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Mis Estadísticas
 
