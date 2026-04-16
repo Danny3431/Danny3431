@@ -1,42 +1,111 @@
- Hola, soy @Danny3431, Daniela Puebla <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+<h1 align="center">
+Hola, soy Daniela Puebla <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<p align="center">
+Data & AI Analyst | Automatización con IA | Full Stack Developer
+</p>
 
 ### :woman_technologist: Sobre mí :
-- 👀 Estoy interesada en Desarrollo de Aplicaciones, Análisis de Datos y Ciencia de Datos
+
+Soy Data & AI Analyst con enfoque en análisis de datos, automatización y desarrollo de soluciones tecnológicas.
+
+Trabajo integrando datos, inteligencia artificial y desarrollo de software para optimizar procesos, mejorar la eficiencia y apoyar la toma de decisiones.
+
 - 🎓 Postgrado en Data Science y Aprendizaje Automático en el MIT
-- 📱 Desarrollo de Aplicaciones Android – TALENTO DIGITAL-ADALID.
-- 🤝 Busco colaborar en proyectos de Programación, IA y Análisis de Datos, promoviendo la inclusión y reduciendo la brecha de género en tecnología.
+- 📱 Desarrollo de Aplicaciones Android  y Web – TALENTO DIGITAL
+
+  
+
+ 💡 Me especializo en:
+- Análisis de datos y generación de insights  
+- Automatización con IA (APIs, integraciones)  
+- Desarrollo Full Stack (Node.js, PostgreSQL)  
+- Desarrollo de aplicaciones (Android y Web)   
+  
 - 📩 Contáctame: daniela.pueblam31@gmail.com
 
+🤝 Busco colaborar en proyectos de Programación, IA y Análisis de Datos, promoviendo la inclusión y reduciendo la brecha de género en tecnología.
 
-## Habilidades
+---
 
-### Lenguajes de Programación
-- **Python** (v3.13)
-- **R** (v4.4.1)
-- **SQL** (PostgreSQL, MySQL)
-- **Java** (v17, v22)
-- **HTML5, CSS3, JavaScript** (ES6+)
-- **C++**
-- **COBOL**
-- **Visual Basic**
+## 🚀 Stack Tecnológico
 
-### Bases de Datos y Servidores
-- **SQL Server** (v2019)
-- **Windows Server** (v2008, v2012)
-- **SAP**
-- **SAP ARIBA**
+### Lenguajes
+Python · SQL · JavaScript · Kotlin · Java  
 
-### Análisis de Datos
-- Modelado de datos, ETL (Extracción, Transformación y Carga)
-- Análisis predictivo y Aprendizaje Automático
-- Visualización de datos con **Power BI** y **Tableau**, generando insights estratégicos
+### Data & AI
+Pandas · NumPy · Scikit-learn · Matplotlib ·Seaborn · Power BI · Tablau
 
-### Aprendizaje Automático
-- Creación y entrenamiento de modelos predictivos utilizando **Python** (Scikit-learn, Pandas, NumPy) y **R**
+### Backend & Full Stack
+Node.js · Express · Sequelize · APIs REST  
 
-### Estadística y Probabilidad
-- Aplicación de métodos estadísticos avanzados en análisis de datos para la toma de decisiones estratégicas
+### Bases de Datos
+PostgreSQL · MySQL · SQL Server  
+
+---
+
+## 📊 Enfoque
+
+- Análisis de datos para toma de decisiones  
+- Automatización de procesos con inteligencia artificial  
+- Desarrollo backend y APIs REST  
+- Integración de sistemas y datos  
+
+---
+
+## 💻 Proyectos Full Stack (JavaScript & Backend)
+
+🔹 **E-commerce Full Stack (Node.js + PostgreSQL + Sequelize)**  
+Aplicación completa con consultas parametrizadas y ORM para gestión de productos y operaciones.
+
+🔹 **Backend con Node.js + pg + pg-cursor**  
+Consultas eficientes de datos (PIB por país) utilizando cursores para grandes volúmenes.
+
+🔹 **API REST con Node.js, Express y Sequelize**  
+Desarrollo de APIs conectadas a PostgreSQL con arquitectura escalable.
+
+🔹 **Relaciones N:N con Sequelize (Películas y Actores)**  
+Modelamiento avanzado de базы de datos relacionales.
+
+🔹 **Sistema de Órdenes con Transacciones PostgreSQL**  
+Uso de BEGIN / COMMIT / ROLLBACK con validación de stock.
+
+🔹 **CRUDs con Node.js + PostgreSQL**  
+Implementación de consultas parametrizadas, validaciones y respuestas JSON estructuradas.
+
+---
+
+## 📊 Proyectos de Data
+
+🔹 **Customer Churn Analysis (TelecomX)** 
+
+Análisis de evasión de clientes con ETL, EDA y estrategias basadas en datos.
+
+🔹 **TelecomX_Parte2_DPuebla** 
+
+Predicción de Evasión de Clientes (Machine Learning)
+
+---
+
+## 📱 Desarrollo Mobile
+
+🔹 Aplicaciones Android desarrolladas con Kotlin (20)  
+Arquitectura moderna (MVVM), consumo de APIs y persistencia de datos  
+
+---
+
+## 📚 Docencia
+
+Experiencia apoyando formación tecnológica en:
+
+- Desarrollo de aplicaciones móviles (Android – Kotlin)  
+- Desarrollo Full Stack JavaScript (Node.js, PostgreSQL)  
+- Fundamentos de programación  
+
+Acompañamiento a estudiantes en proyectos, resolución de problemas y desarrollo de soluciones reales.
+
+
 
 ### Anotación de Datos
 - Experiencia en etiquetado y preparación de datos para proyectos de IA
